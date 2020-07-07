@@ -40,3 +40,6 @@ App开卡 , 钱包开卡 , 第三方京东开卡等等
     1 . 将几种业务方式的对象交给 spring 管理
     2 . 在工厂中根据类型获取到具体的Class
     3 . 从spring上下文中获取到 bean ,即为工厂生产的bean
+    
+    
+git 里面有个cherry-pick命令
